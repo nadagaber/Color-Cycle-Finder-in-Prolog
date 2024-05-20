@@ -5,4 +5,4 @@ This Prolog project aims to solve the problem of finding color cycles in a given
  - All cells in the cycle have the same color.
  - The cycle consists of four distinct, adjacent cells.
  - The cells form a closed loop.
- - The project uses uninformed search algorithms (Breadth-First Search or Depth-First Search) to explore the grid and find such cycles.
+ - The project uses uninformed search algorithms (Breadth-First Search) to explore the grid and find such cycles.
